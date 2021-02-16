@@ -1,7 +1,7 @@
 
-#Bean tacos with roasted chilli  salsa
+# Bean tacos with roasted chilli  salsa
 _Serves 1_
-## Ingredients
+## Ingredients:
 1 tomato
 * ˜˚˛ red onion, peeled and finely chopped
 * ˜˚˛ red chilli, deseeded and finely chopped
@@ -13,7 +13,7 @@ _Serves 1_
 * ˜˚˛ tsp ground cumin
 * 2 small corn tortillas
 * 30g feta, crumbled
-## Method
+## Method:
 Preheat the oven to 220ºC. Put the tomato, onion and chilli 
 onto a baking tray and roast for 10 minutes until blistered and 
 softened. Peel the garlic then put into a food processor with the 

@@ -1,14 +1,14 @@
 
-#Potato pancakes with roasted  tomatoes
+# Potato pancakes with roasted  tomatoes
 _Serves 1_
-## Ingredients
+## Ingredients:
 165g potatoes, peeled and cut into chunks
 * 80g cherry tomatoes
 * Salt and pepper40g plain flour
 * 15g protein powder, unflavoured
 * 1˜˚˛ tsp butter
 * 1 medium eg
-## Method
+## Method:
 Preheat the oven to 200ºC. Bring a pan of salted water to the 
 boil, add the potatoes and boil for 8˝10 minutes until tender. 
 Drain then leave to steam and cool.

@@ -1,7 +1,7 @@
 
-#Caramelised apple French  toast
+# Caramelised apple French  toast
 _Serves 1_
-## Ingredients
+## Ingredients:
 2 medium eggs2 tbsp skimmed milkPinch of salt
 * Pinch of ground cinnamon
 * 1 wholemeal muffins (2 halves)
@@ -11,7 +11,7 @@ _Serves 1_
 * 1 tsp butter
 * 30g yoghurt, such as Greek, natural or soya
 * 10g toasted flaked almonds
-## Method
+## Method:
 Whisk the eggs, milk, salt and cinnamon together in a bowl until 
 smooth then add the muffin halves and set aside to soak for 5 
 minutes.

@@ -1,7 +1,7 @@
 
-#Vegetarian pad thai
+# Vegetarian pad thai
 _Serves 1_
-## Ingredients
+## Ingredients:
 50g flat rice noodles
 * 1 tbsp tamarind paste
 * 10g maple syrup
@@ -15,7 +15,7 @@ _Serves 1_
 * 5g unsalted roasted peanuts, roughly crushed
 * Quick and easy
 * 4
-## Method
+## Method:
 Soak the noodles according to the packet instructions then 
 drain and rinse under cold running water. Meanwhile whisk 
 together the tamarind paste, maple syrup, fish sauce or soy 

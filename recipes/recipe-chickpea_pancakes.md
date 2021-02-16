@@ -1,7 +1,7 @@
 
-#Chickpea pancakes
+# Chickpea pancakes
 _Serves 1_
-## Ingredients
+## Ingredients:
 80g gram flour (chickpea flour)
 * ˜˚˛ tsp turmeric
 * Small bunch of parsley, chopped
@@ -13,7 +13,7 @@ _Serves 1_
 * 40g cherry tomatoes, halved
 * 20g feta, crumbled
 * Pinch of smoked paprika
-## Method
+## Method:
 Pour the gram flour into a large bowl, add the turmeric, parsley 
 and spring onions. Gradually whisk in the water until you have 
 a batter roughly the consistency of double cream. Season with 

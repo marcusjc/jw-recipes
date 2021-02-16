@@ -1,7 +1,7 @@
 
-#Banana, date and cinnamon  smoothie
+# Banana, date and cinnamon  smoothie
 _Serves 1_
-## Ingredients
+## Ingredients:
 100g banana (roughly 1 medium banana), peeled weight
 * 60g pitted Medjool dates (roughly 5 dates)
 * 10g peanut butter
@@ -10,7 +10,7 @@ _Serves 1_
 * 20g vanilla protein powder
 * ˜˚˛ tsp ground cinnamon
 * Handful of ice
-## Method
+## Method:
 Mega simple; just combine everything in a liquidiser and blend 
 until smooth.
 Alternative ingredients 

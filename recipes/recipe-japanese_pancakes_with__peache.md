@@ -1,7 +1,7 @@
 
-#Japanese pancakes with  peache
+# Japanese pancakes with  peache
 _Serves 1_
-## Ingredients
+## Ingredients:
 35g self-raising flour
 * 20g protein powder
 * ˜˚˙ tsp baking powder
@@ -13,7 +13,7 @@ _Serves 1_
 * 150g fresh peaches, sliced
 * 30g honey
 * 3
-## Method
+## Method:
 Combine the flour, protein powder and baking powder in a 
 large bowl and make a well in the centre. Add the egg, milk and 
 vanilla and whisk until smooth. In a separate bowl, whisk the 

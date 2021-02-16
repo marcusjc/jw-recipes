@@ -1,7 +1,7 @@
 
-#Paella
+# Paella
 _Serves 1_
-## Ingredients
+## Ingredients:
 1 tsp olive oil
 * ˜˚˛ white onion, peeled and finely chopped
 * ˜˚˛ red pepper, deseeded and sliced
@@ -13,7 +13,7 @@ _Serves 1_
 * 100g edamame beans (soya beans)
 * Small bunch of parsley, chopped
 * ˜˚˛ lemon, cut into wedges
-## Method
+## Method:
 Heat the oil in a paella pan or frying pan, add the onion and 
 pepper and fry for 5 minutes until soft. Add the mushrooms, 
 garlic and smoked paprika, fry for a minute then stir in the rice 

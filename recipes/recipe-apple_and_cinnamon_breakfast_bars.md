@@ -1,7 +1,7 @@
 
-#Apple and cinnamon breakfast bars
+# Apple and cinnamon breakfast bars
 _Serves 9_
-## Ingredients
+## Ingredients:
 200g rolled oats
 * 70g coconut flour
 * 90g vanilla protein powder
@@ -14,7 +14,7 @@ _Serves 9_
 * 75ml boiling water
 * 200g raisins
 * 2 apples, cored and grated
-## Method
+## Method:
 Preheat the oven to 180ºC and line a 20cm x 30cm rectangular 
 cake tin with greaseproof paper. Combine the oats, coconut 
 flour, protein powder, ground flaxseed and cinnamon in a large 

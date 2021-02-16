@@ -1,7 +1,7 @@
 
-#Spicy aubergine spaghetti
+# Spicy aubergine spaghetti
 _Serves 1_
-## Ingredients
+## Ingredients:
 1 aubergine, diced
 * 1˜˚˛ tsp olive oil
 * 2 cloves garlic, peeled and crushed
@@ -12,7 +12,7 @@ _Serves 1_
 * 45g dried spaghetti
 * Small bunch of basil, leaves torn 
 * Salt and pepper45g ricotta
-## Method
+## Method:
 Tip the aubergine into a bowl, cover with clingfilm then 
 microwave for 5˝6 minutes until softened. 
 Meanwhile heat the oil in a saucepan over a medium heat, add 

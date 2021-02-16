@@ -1,7 +1,7 @@
 
-#Spicy protein burger 
+# Spicy protein burger 
 _Serves 1_
-## Ingredients
+## Ingredients:
 150g tinned black beans or kidney beans, drained
 * 10g protein powder, unflavoured
 * 1ˆ˜˚˛ tsp chipotle paste
@@ -13,7 +13,7 @@ _Serves 1_
 * 30g light mayonnaise
 * 2 leaves baby gem lettuce
 * 2 slices white or red onion
-## Method
+## Method:
 Tip the beans, protein powder, chipotle paste, gram flour, egg 
 white and coriander into a food processor, season with salt and 
 pepper then blend to a coarse paste. Tip the mixture onto a 

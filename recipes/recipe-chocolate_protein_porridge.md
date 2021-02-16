@@ -1,7 +1,7 @@
 
-#Chocolate protein porridge
+# Chocolate protein porridge
 _Serves 1_
-## Ingredients
+## Ingredients:
 40g rolled oats
 * 20g ground flaxseed
 * 1 tsp cocoa powder
@@ -9,7 +9,7 @@ _Serves 1_
 * 30g chocolate protein powder
 * 10g honey
 * 50g yoghurt, such as Greek, natural or soya
-## Method
+## Method:
 Combine all of the ingredients, except the yoghurt, in a 
 saucepan and set over a medium heat. Bring to a gentle simmer 
 then cook for 8Œ10 minutes, stirring regularly until thickened. 

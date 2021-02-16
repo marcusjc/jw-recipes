@@ -1,7 +1,7 @@
 
-#Chilled rice pudding with  raspberry jam
+# Chilled rice pudding with  raspberry jam
 _Serves 1_
-## Ingredients
+## Ingredients:
 290ml skimmed milk˜˚˛ tsp vanilla bean paste
 * Pinch ground nutmeg
 * 50g pudding rice or risotto rice
@@ -10,7 +10,7 @@ _Serves 1_
 * 5g chia seeds
 * Good for batch cooking
 * 2
-## Method
+## Method:
 Pour the milk, vanilla and nutmeg into a saucepan, stir in the 
 rice then bring to the boil. Reduce the heat to a simmer, cover 
 and cook for 25˝30 minutes, stirring occasionally until the rice 

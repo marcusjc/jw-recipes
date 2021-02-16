@@ -1,7 +1,7 @@
 
-#Loaded sweet potato skins
+# Loaded sweet potato skins
 _Serves 1_
-## Ingredients
+## Ingredients:
 265g sweet potato (roughly 1 large potato)
 * 1˜˚˛ tsp olive oil
 * ˜˚˛ red pepper, deseeded and diced
@@ -11,7 +11,7 @@ _Serves 1_
 * Small bunch of chives, finely chopped
 * Salt and pepper15g mature cheddar, grated
 * 2 medium eggs, beaten
-## Method
+## Method:
 Preheat the oven to 200ºC. Microwave the sweet potato on a 
 high heat for 8Œ10 minutes until soft. Cut in half lengthways, 
 leave to cool slightly then scoop the flesh into a bowl. Put the 

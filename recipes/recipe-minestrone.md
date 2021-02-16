@@ -1,7 +1,7 @@
 
-#Minestrone
+# Minestrone
 _Serves 1_
-## Ingredients
+## Ingredients:
 1˜˚˛ tsp olive oil
 * ˜˚˛ onion, peeled and finely chopped
 * 1 carrot, peeled and chopped
@@ -15,7 +15,7 @@ _Serves 1_
 * 80g tinned borlotti or kidney beans, drained
 * 80g kale or cabbage, shredded
 * 10g hard cheese, finely grated
-## Method
+## Method:
 Heat the oil in a deep saucepan, add the onion, carrot and 
 celery and fry gently for 5 minutes until soft. Stir in the tomato 
 and tomato puree, cook for a couple of minutes then crumble in 
