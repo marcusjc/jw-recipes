@@ -12,7 +12,7 @@ _Serves 1_
 * Handful of ice
 * Reduced carb meals - anytime
 * 67Quick and eas
-## Method:
+## Instructions:
 Mega simple; just combine everything in a liquidiser and blend 
 until smooth.
 Alternative ingredients 

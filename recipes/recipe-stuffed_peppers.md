@@ -14,7 +14,7 @@ _Serves 1_
 * 60g yoghurt, such as Greek, natural, soya
 * Small bunch of mint, chopped
 * Green salad, to serve
-## Method:
+## Instructions:
 Preheat the oven to 220ºC. Cut the tops off the peppers then 
 use a spoon to scoop out the seeds. Lay on a roasting tray and 
 roast for 10 minutes.

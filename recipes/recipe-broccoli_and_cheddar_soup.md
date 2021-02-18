@@ -9,7 +9,7 @@ _Serves 1_
 * 270ml skimmed milk
 * Salt and pepper40g mature cheddar, grated
 * 20g yoghurt, such as Greek, natural, soya
-## Method:
+## Instructions:
 Heat the oil in a saucepan, add the garlic and fry for a minute 
 until softened. Stir in the lentils, pour over enough boiling water 
 to cover by a couple of centimetres then bring to the boil and 

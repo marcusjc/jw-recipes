@@ -15,7 +15,7 @@ portions
 * 145g yoghurt, per serving
 * Good for batch cooking
 * 7
-## Method:
+## Instructions:
 Preheat the oven to 160°C. Combine the peanut butter, maple 
 syrup, egg whites, vanilla extract, mixed spice and salt in a bowl 
 and whisk until smooth. Add the oats, seeds and pecans and stir 

@@ -10,7 +10,7 @@ _Serves 1_
 * Handful of ice
 * Quick and easy
 * 6
-## Method:
+## Instructions:
 Combine everything in a liquidiser and blend until smooth.
 Alternative ingredients 
 To make this nut-free, swap the almond butter for the same 

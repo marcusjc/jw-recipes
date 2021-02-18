@@ -16,7 +16,7 @@ _Serves 1_
 * 1 tsp ground cumin
 * Pinch of chilli powder
 * Small bunch of coriander, chopped
-## Method:
+## Instructions:
 Put the rinsed lentils and turmeric into a saucepan, pour over 
 the water and bring to the boil. Reduce the heat to a simmer 
 then cook gently for 10 minutes. Add the chickpeas and coconut 

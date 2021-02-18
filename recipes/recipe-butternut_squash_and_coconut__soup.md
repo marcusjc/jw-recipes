@@ -13,7 +13,7 @@ _Serves 1_
 * Juice of ˜˚˛ a lime
 * 20g unsalted roasted peanuts, roughly crushed
 * Small bunch of coriander, chopped
-## Method:
+## Instructions:
 Heat the oil in a saucepan, add the squash and fry for 3˝4 
 minutes until slightly coloured and starting to soften. Add the 
 onion and chilli and fry for a couple of minutes until softened. 

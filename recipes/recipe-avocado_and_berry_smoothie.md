@@ -9,7 +9,7 @@ _Serves 1_
 * 50g raspberries
 * 20g almonds, flaked, whole or ground
 * 50g yoghurt, such as Greek, natural or soya
-## Method:
+## Instructions:
 Mega simple; just combine everything in a liquidiser and blend 
 until smooth.
 Alternative ingredients 

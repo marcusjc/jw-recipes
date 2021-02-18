@@ -11,7 +11,7 @@ _Serves 1_
 * 2 tbsp low-fat crème fraîche
 * 10g hard cheese, finely grated
 * Salt and peppe
-## Method:
+## Instructions:
 Bring a large pan of salted water to the boil. Add the pasta 
 and cook according to the packet instructions, adding the 
 asparagus for the final minute of cooking. Drain the pasta and 

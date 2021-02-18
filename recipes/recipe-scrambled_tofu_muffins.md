@@ -10,7 +10,7 @@ _Serves 1_
 * Salt and pepper160g baby leaf spinach
 * 1 wholemeal muffin, split and toasted
 * 20g feta, crumbled
-## Method:
+## Instructions:
 Heat the oil in a frying pan, add the chilli and pepper and fry 
 gently for 5 minutes until softened. Tip out onto a plate and set 
 aside. Add the turmeric and tofu to the pan and increase the 

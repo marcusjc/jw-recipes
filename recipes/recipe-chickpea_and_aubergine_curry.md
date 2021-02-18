@@ -15,7 +15,7 @@ _Serves 1_
 * 135g tinned chickpeas, drained
 * Small bunch of coriander, leaves chopped
 * Salt and peppe
-## Method:
+## Instructions:
 Tip the aubergine into a bowl, cover with clingfilm then 
 microwave for 5˝6 minutes until softened. 
 Meanwhile heat the oil in a saucepan over a medium heat, add 

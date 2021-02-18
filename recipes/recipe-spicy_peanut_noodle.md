@@ -11,7 +11,7 @@ _Serves 1_
 * Pinch of chilli flakes
 * 5g unsalted roasted peanuts, roughly crushed
 * Small bunch of coriander, chopped
-## Method:
+## Instructions:
 Heat the oil in a wok over a high heat, add the spring onions, 
 sugar snap peas and tofu and fry for a couple of minutes until 
 softened. Add the noodles and fry for a couple of minutes to 

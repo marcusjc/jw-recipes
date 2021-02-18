@@ -12,7 +12,7 @@ _Serves 1_
 * 1ˆ˜˚˛ tsp sriracha chilli sauce
 * Juice of 1 lime
 * 20g spring onions, finely chopped
-## Method:
+## Instructions:
 Split the aubergine in half lengthways then use the tip of a small 
 knife to score the flesh in a criss-cross pattern, taking care not 
 to cut all the way through to the skin. Lay the aubergine halves 

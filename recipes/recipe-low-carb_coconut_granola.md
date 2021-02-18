@@ -14,7 +14,7 @@ servings
 * 100g raisins
 * 100g dried apricots, roughly chopped
 * 75g yoghurt, such as Greek, natural or soya (per serving) 
-## Method:
+## Instructions:
 Preheat the oven to 160°C. Combine the rolled oats, mixed 
 seeds, pecan nuts and coconut chips in a large bowl. Stir 
 together the apple sauce, coconut oil, honey and salt in a  

@@ -15,7 +15,7 @@ _Serves 1_
 * Pinch chilli flakes
 * Quick and easy
 * 8
-## Method:
+## Instructions:
 Whisk the miso paste, vinegar, chilli sauce and cornflour 
 together in a small bowl and set aside. Heat a wok or large 
 frying pan over a high heat, add the oil and heat until it begins 

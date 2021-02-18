@@ -11,7 +11,7 @@ _Serves 1_
 * 1 tsp grain mustard or Dijon mustard
 * 10g hard cheese, finely grated
 * Small bunch of parsley, chopped
-## Method:
+## Instructions:
 Heat the oil in a saucepan over medium heat, add the sausages 
 and fry for 7˝8 minutes until golden brown all over. Remove 
 from the pan, cut into thick slices and set aside.

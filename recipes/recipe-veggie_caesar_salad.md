@@ -12,7 +12,7 @@ _Serves 1_
 * 30g firm tofu, diced
 * 3 baby carrots, thinly sliced
 * 6 radishes, thinly sliced
-## Method:
+## Instructions:
 Preheat the oven to 180°C. Put the torn bagel pieces on a 
 baking tray and bake for 15 minutes until crisp then set aside to 
 cool.

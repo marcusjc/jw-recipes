@@ -15,7 +15,7 @@ _Serves 1_
 * Salt and pepper20g mature cheddar, grated
 * 40ml soured cream
 * Small bunch of coriander, chopped
-## Method:
+## Instructions:
 Heat the oil in a saucepan, add the onion and garlic and fry 
 for 4˝5 minutes until soft. Increase the heat, add the Quorn 
 mince and fry for a couple of minutes. Add the tomato puree 

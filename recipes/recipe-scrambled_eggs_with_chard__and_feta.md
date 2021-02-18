@@ -13,7 +13,7 @@ _Serves 1_
 * 40g feta, crumbled
 * Quick and easy
 * 7
-## Method:
+## Instructions:
 Heat the oil in a frying pan, add the garlic, tomatoes and chard 
 stalks and fry for 3˝4 minutes until softened. Add the chard 
 leaves and chilli flakes, fry for a minute until the leaves are 

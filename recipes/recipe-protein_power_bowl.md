@@ -10,7 +10,7 @@ _Serves 1_
 * 40g avocado, sliced
 * 40g smoked tofu or firm tofu, diced
 * 20g pumpkin seeds
-## Method:
+## Instructions:
 Whisk together the oil, vinegar and a pinch of salt and pepper 
 in a large bowl. Add the quinoa, tomatoes and spinach, toss 
 to coat then tip into a serving bowl. Arrange the remaining 

@@ -11,7 +11,7 @@ _Serves 1_
 * 2 tsp honey
 * ˜˚˛ tsp mixed spice
 * 10g toasted flaked almonds
-## Method:
+## Instructions:
 Stir together the coconut milk, oats, chia seeds, protein powder 
 and yoghurt and set aside to soak for at least 15 minutes.
 Meanwhile combine the plums, honey, mixed spice and a splash 

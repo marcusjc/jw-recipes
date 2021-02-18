@@ -14,7 +14,7 @@ servings
 * 390ml skimmed milk
 * 500g butternut squash
 * 95g mature cheddar, grated
-## Method:
+## Instructions:
 Heat the oil in a large saucepan, add the onions and garlic and 
 cook gently for 5 minutes until soft. Increase the heat, add the 
 Quorn mince and fry for a couple of minutes. Add the tomato 

@@ -9,7 +9,7 @@ _Serves 1_
 * 1ˆ˜˚˛ tsp red wine vinegar
 * 25g pumpkin seeds
 * Handful of salad leaves
-## Method:
+## Instructions:
 Preheat the oven to 220ºC. Lay the squash and pepper on a 
 roasting tray in an even layer, drizzle over the oil and season 
 with salt and pepper. Roast for 15˝20 minutes until softened.

@@ -14,7 +14,7 @@ _Serves 1_
 * 40g rice noodles, cooked
 * 20g unsalted roasted cashew nuts, crushed
 * Small bunch of coriander, chopped
-## Method:
+## Instructions:
 Whisk the soy sauce, sesame oil, sugar, lime zest and juice 
 and the chilli together in a large bowl. Add the remaining 
 ingredients and toss together to combine.

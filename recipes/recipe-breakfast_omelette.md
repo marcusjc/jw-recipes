@@ -9,7 +9,7 @@ _Serves 1_
 * Small bunch of chives, finely chopped
 * 1˜˚˛ tsp olive oil
 * 1 slice wholemeal bread, toasted
-## Method:
+## Instructions:
 Preheat the grill to high, lay the mushrooms on a baking tray 
 and season with salt and pepper. Grill for 7˝8 minutes until 
 softened then cut into thick slices.
